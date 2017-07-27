@@ -16,6 +16,7 @@
 \usepackage{subcaption}
 \usepackage{graphicx}
 \graphicspath{Users/luke/Desktop?}
+<<<<<<< HEAD
 \title{PHYS2055 - Problem Set 4}
 \author{Luke Robinson (43740929)}
 \begin{document}
@@ -23,4 +24,13 @@
 \section*{Lecture 1}
 %\input{Chapters/lecture1}
 \tableofcontents
+=======
+\title{Physics Reading Semester 2 2017}
+\author{Luke Robinson}
+\begin{document}
+\maketitle
+\tableofcontents{}
+\section{Lecture1}
+\input{Chapters/lecture1}
+>>>>>>> phys2100
 \end{document}
