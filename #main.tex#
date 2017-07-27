@@ -19,8 +19,7 @@
 \title{Physics Reading Semester 2 2017}
 \author{Luke Robinson}
 \begin{document}
-\maketitle
-\tableofcontents
-\section{Lecture 1}
+\tableofcontents{}
+\section{Lecture1}
 \input{Chapters/lecture1}
 \end{document}
