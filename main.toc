@@ -1,1 +1,3 @@
-\contentsline {section}{\numberline {1}Lecture 1}{1}
+\contentsline {section}{\numberline {1}PHYS2041 Quantum Physics}{1}
+\contentsline {subsection}{\numberline {1.1}Lecture 1}{1}
+\contentsline {subsection}{\numberline {1.2}Lecture 2}{1}
