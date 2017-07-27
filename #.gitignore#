@@ -1,0 +1,8 @@
+
+# Tell git not to track these particular file extensions
+
+*.aux
+*.log
+*main.pdf
+*.toc
+	
