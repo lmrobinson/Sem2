@@ -1,0 +1,26 @@
+\documentclass[8pt,a4paper,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{geometry}
+\setlength{\parskip}{0.9em}
+\setlength\parindent{0pt}
+\usepackage{amssymb}
+\usepackage{physics}
+\usepackage{listings}
+\usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+\definecolor{mygreen}{RGB}{28,172,0} % color values Red, Green, Blue
+\definecolor{mylilas}{RGB}{170,55,241}
+\usepackage{adjustbox}
+\usepackage{tabularx}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\graphicspath{Users/luke/Desktop?}
+\title{PHYS2055 - Problem Set 4}
+\author{Luke Robinson (43740929)}
+\begin{document}
+	\maketitle
+\section*{Lecture 1}
+%\input{Chapters/lecture1}
+\tableofcontents
+\end{document}
